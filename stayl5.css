@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+    display: flex;
+   justify-content:center;
+   align-items: center;
+     text-align: left;
+  }
+  .main-container{
+    display: flex;
+    flex-direction: column;
+  }
+  .main-container .row1{
+    display: flex;
+    
+  }
+  .main-container .row2{
+    display: flex;
+    
+  }
+  .main-container .row3{
+    display: flex;
+      text-align: left;
+    
+  }
+  .main-container div div{
+    margin: 10px;
+    background-color: #4d7298;
+    border: 3px solid #90b7c3;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 6px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
